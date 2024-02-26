@@ -1,2 +1,2 @@
 A brief overview of the optimization model is given below
-![3MT TD Advanced Modelling and Predictive Data Analytics for Arctic Oil Spills 2](https://user-images.githubusercontent.com/19787712/223758957-2fcb070d-1d3d-4319-a1dd-0c386643a345.png)
+<img width="1077" alt="Screenshot 2024-02-26 at 18 10 59" src="https://github.com/tanmoyie/Decision-Support-Tool/assets/19787712/63c3ef86-4ea8-451c-b905-434c78b5f9f5">
